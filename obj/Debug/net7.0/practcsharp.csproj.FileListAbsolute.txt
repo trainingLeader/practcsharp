@@ -1,0 +1,15 @@
+/workspaces/practcsharp/bin/Debug/net7.0/practcsharp
+/workspaces/practcsharp/bin/Debug/net7.0/practcsharp.deps.json
+/workspaces/practcsharp/bin/Debug/net7.0/practcsharp.runtimeconfig.json
+/workspaces/practcsharp/bin/Debug/net7.0/practcsharp.dll
+/workspaces/practcsharp/bin/Debug/net7.0/practcsharp.pdb
+/workspaces/practcsharp/obj/Debug/net7.0/practcsharp.csproj.AssemblyReference.cache
+/workspaces/practcsharp/obj/Debug/net7.0/practcsharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/practcsharp/obj/Debug/net7.0/practcsharp.AssemblyInfoInputs.cache
+/workspaces/practcsharp/obj/Debug/net7.0/practcsharp.AssemblyInfo.cs
+/workspaces/practcsharp/obj/Debug/net7.0/practcsharp.csproj.CoreCompileInputs.cache
+/workspaces/practcsharp/obj/Debug/net7.0/practcsharp.dll
+/workspaces/practcsharp/obj/Debug/net7.0/refint/practcsharp.dll
+/workspaces/practcsharp/obj/Debug/net7.0/practcsharp.pdb
+/workspaces/practcsharp/obj/Debug/net7.0/practcsharp.genruntimeconfig.cache
+/workspaces/practcsharp/obj/Debug/net7.0/ref/practcsharp.dll
